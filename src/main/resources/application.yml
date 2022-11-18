@@ -1,0 +1,12 @@
+challenge:
+  base_url: "https://weckdengeparden-57-services.cloud.itandtel.at/challenge/"
+  cv_path: "src/main/resources/example_cv.pdf"
+  jobApplicationAnswer:
+    jobId: "123456"
+    firstName: "Urna"
+    lastName: "Semper"
+    email: "urna.semper@mail.com"
+    source: GOOGLE
+    messageToGepardec: "Some message"
+    phone: "+43 666 1234567"
+    linkedInLink: "https://www.linkedin.com/in/urna-semper/"

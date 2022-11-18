@@ -1,0 +1,5 @@
+challenge:
+  base_url: "https://weckdengeparden-57-services.cloud.itandtel.at/challenge/"
+  cv_path: "src/test/resources/test.txt"
+  jobApplicationAnswer:
+    jobId: "123"
